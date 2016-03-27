@@ -2,14 +2,14 @@
 title: 素清欢的狂想世界
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "胡靖明123"  
+description: "胡靖明"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://sqhuan.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " 胡靖明"
+  email: sqinghuan@163.com
   bio: "写就是写的报酬"
 
 # Data
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "素清欢"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
